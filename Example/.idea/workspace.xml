@@ -2,110 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="123e52d5-00aa-4f13-883d-4a9b4530f183" name="Default" comment="0.4.3">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/VVBase_Example.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/WaQuBase_Example.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/xcode.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/xcode.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/Podfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Podfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFCompatibilityMacros.h" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFCompatibilityMacros.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFNetworking.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/AFNetworking/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/AFNetworking/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFAutoPurgingImageCache.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFAutoPurgingImageCache.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFImageDownloader.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFImageDownloader.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIImage+AFNetworking.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIKit+AFNetworking.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/AFAutoPurgingImageCache.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/AFImageDownloader.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/AFNetworkActivityIndicatorManager.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/AFNetworking.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/UIActivityIndicatorView+AFNetworking.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/UIButton+AFNetworking.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/UIImage+AFNetworking.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/UIImageView+AFNetworking.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/UIKit+AFNetworking.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/UIProgressView+AFNetworking.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/UIRefreshControl+AFNetworking.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/UIWebView+AFNetworking.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/AFAutoPurgingImageCache.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/AFImageDownloader.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/AFNetworkActivityIndicatorManager.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/AFNetworking.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/UIActivityIndicatorView+AFNetworking.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/UIButton+AFNetworking.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/UIImage+AFNetworking.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/UIImageView+AFNetworking.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/UIKit+AFNetworking.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/UIProgressView+AFNetworking.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/UIRefreshControl+AFNetworking.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/UIWebView+AFNetworking.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Manifest.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/Manifest.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/NSObject+RACKVOWrapper.m" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/NSObject+RACKVOWrapper.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/NSObject+RACSelectorSignal.h" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/NSObject+RACSelectorSignal.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/NSObject+RACSelectorSignal.m" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/NSObject+RACSelectorSignal.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/RACBlockTrampoline.m" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/RACBlockTrampoline.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/RACCommand.h" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/RACCommand.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/RACCommand.m" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/RACCommand.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/RACDisposable.m" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/RACDisposable.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/RACReplaySubject.m" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/RACReplaySubject.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/RACSignal+Operations.h" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/RACSignal+Operations.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/RACSignal+Operations.m" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/RACSignal+Operations.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/extobjc/RACEXTRuntimeExtensions.m" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/extobjc/RACEXTRuntimeExtensions.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/AFNetworking/AFNetworking-prefix.pch" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/Target Support Files/AFNetworking/AFNetworking-prefix.pch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/AFNetworking/AFNetworking.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/Target Support Files/AFNetworking/AFNetworking.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-WaQuBase_Example/Pods-WaQuBase_Example-acknowledgements.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-WaQuBase_Example/Pods-WaQuBase_Example-acknowledgements.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-WaQuBase_Example/Pods-WaQuBase_Example-dummy.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-WaQuBase_Example/Pods-WaQuBase_Example-frameworks.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-WaQuBase_Example/Pods-WaQuBase_Example-resources.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-WaQuBase_Example/Pods-WaQuBase_Example.debug.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-WaQuBase_Example/Pods-WaQuBase_Example.release.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-WaQuBase_Tests/Pods-WaQuBase_Tests-acknowledgements.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-WaQuBase_Tests/Pods-WaQuBase_Tests-acknowledgements.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-WaQuBase_Tests/Pods-WaQuBase_Tests-dummy.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-WaQuBase_Tests/Pods-WaQuBase_Tests-frameworks.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-WaQuBase_Tests/Pods-WaQuBase_Tests-resources.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-WaQuBase_Tests/Pods-WaQuBase_Tests.debug.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-WaQuBase_Tests/Pods-WaQuBase_Tests.release.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/UICKeyChainStore/Lib/UICKeyChainStore/UICKeyChainStore.m" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/UICKeyChainStore/Lib/UICKeyChainStore/UICKeyChainStore.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/UICKeyChainStore/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/UICKeyChainStore/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VVBase.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/VVBase.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WaQuBase.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WaQuBase.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../VVBase.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/../VVBase.podspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../VVBase/Http/AFNetworking+RACExtensions/AFHTTPSessionManager+RACSupport.m" beforeDir="false" afterPath="$PROJECT_DIR$/../VVBase/Http/AFNetworking+RACExtensions/AFHTTPSessionManager+RACSupport.m" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,7 +97,7 @@
       <workItem from="1514520670852" duration="3260000" />
       <workItem from="1533385313952" duration="704000" />
       <workItem from="1533392483621" duration="140000" />
-      <workItem from="1591195231328" duration="1096000" />
+      <workItem from="1591195231328" duration="1546000" />
     </task>
     <task id="LOCAL-00001" summary="修改配置">
       <created>1487149616479</created>
