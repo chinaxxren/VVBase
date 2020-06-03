@@ -8,7 +8,7 @@
 
     Pod::Spec.new do |s|
     s.name             = 'VVBase'
-    s.version          = '1.0.3'
+    s.version          = '1.0.5'
     s.summary          = '项目基础网络的架构'
 
     # This description is used to generate tags and improve search results.
@@ -22,7 +22,6 @@
                        DESC
 
     s.homepage         = 'https://github.com/chinaxxren/VVBase.git'
-    # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
     s.license          = { :type => 'MIT', :file => 'LICENSE' }
     s.author           = { 'zhaojiangming' => 'zhaojiangming@gmail.com' }
     s.source           = { :git => 'https://github.com/chinaxxren/VVBase.git', :tag => s.version.to_s }
@@ -78,7 +77,10 @@
     s.dependency 'OpenUDID', '1.0.0'
     s.dependency 'NSLogger', '1.9.7'
     s.dependency 'ReactiveObjC', '3.1.1'
-    s.dependency 'AFNetworking', '4.0.1'
+    s.dependency 'AFNetworking/Serialization', '4.0.1'
+    s.dependency 'AFNetworking/Security', '4.0.1'
+    s.dependency 'AFNetworking/NSURLSession', '4.0.1'
+    s.dependency 'AFNetworking/Reachability', '4.0.1'
     s.dependency 'UICKeyChainStore', '2.2.0'
     s.dependency 'Reachability', '3.2'
     end
