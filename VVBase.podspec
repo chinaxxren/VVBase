@@ -8,7 +8,7 @@
 
     Pod::Spec.new do |s|
     s.name             = 'VVBase'
-    s.version          = '0.5.3'
+    s.version          = '1.0.0'
     s.summary          = '项目基础网络的架构'
 
     # This description is used to generate tags and improve search results.
@@ -21,7 +21,7 @@
                     网络的库
                        DESC
 
-    s.homepage         = 'http://gitlab.feixun.tv/ios/VVBase.git'
+    s.homepage         = 'https://github.com/chinaxxren/VVBase.git'
     # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
     s.license          = { :type => 'MIT', :file => 'LICENSE' }
     s.author           = { 'zhaojiangming' => 'zhaojiangming@gmail.com' }
