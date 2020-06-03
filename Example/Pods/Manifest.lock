@@ -1,4 +1,10 @@
 PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
   - AFNetworking/NSURLSession (4.0.1):
     - AFNetworking/Reachability
     - AFNetworking/Security
@@ -6,6 +12,8 @@ PODS:
   - AFNetworking/Reachability (4.0.1)
   - AFNetworking/Security (4.0.1)
   - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
   - NSLogger (1.9.7):
     - NSLogger/ObjC (= 1.9.7)
   - NSLogger/ObjC (1.9.7)
@@ -15,10 +23,7 @@ PODS:
   - UICKeyChainStore (2.2.0)
 
 DEPENDENCIES:
-  - AFNetworking/NSURLSession (~> 4.0.1)
-  - AFNetworking/Reachability (~> 4.0.1)
-  - AFNetworking/Security (~> 4.0.1)
-  - AFNetworking/Serialization (~> 4.0.1)
+  - AFNetworking (= 4.0.1)
   - NSLogger (= 1.9.7)
   - OpenUDID (= 1.0.0)
   - Reachability (= 3.2)
@@ -42,6 +47,6 @@ SPEC CHECKSUMS:
   ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
   UICKeyChainStore: 6a218644594e12f855ec2a10f4fc576c1a69daee
 
-PODFILE CHECKSUM: 87e25a0e1b0a4e31191b0e2fb2a45ebde5c744c4
+PODFILE CHECKSUM: ca692305ce03dc92d124dac9fdd58f25021c4b10
 
 COCOAPODS: 1.8.4
