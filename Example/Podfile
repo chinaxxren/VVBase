@@ -1,15 +1,15 @@
 source 'https://cdn.cocoapods.org'
 
-platform :ios, '8.0'
+platform :ios, '10.0'
 
 target 'VVBase_Example' do
 
   # base pod
   pod "OpenUDID", "1.0.0"
   pod "NSLogger", "1.9.7"
-  pod "ReactiveObjC", "3.1.0"
-  pod "AFNetworking", "3.2.1"
-  pod "UICKeyChainStore", "2.1.2"
+  pod "ReactiveObjC", "3.1.1"
+  pod 'AFNetworking', '4.0.1', :subspecs => ['Reachability', 'Serialization', 'Security', 'NSURLSession']
+  pod "UICKeyChainStore", "2.2.0"
   pod "Reachability", "3.2"
 
   target 'VVBase_Tests' do

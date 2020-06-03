@@ -1,9 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="123e52d5-00aa-4f13-883d-4a9b4530f183" name="Default" comment="0.4.3" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
+    <list default="true" id="123e52d5-00aa-4f13-883d-4a9b4530f183" name="Default" comment="0.4.3">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/VVBase_Example.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/WaQuBase_Example.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/xcode.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/xcode.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/Podfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFCompatibilityMacros.h" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFCompatibilityMacros.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFNetworking.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/AFNetworking/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/AFNetworking/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFAutoPurgingImageCache.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFAutoPurgingImageCache.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFImageDownloader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFImageDownloader.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIImage+AFNetworking.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIKit+AFNetworking.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/AFAutoPurgingImageCache.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/AFImageDownloader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/AFNetworkActivityIndicatorManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/AFNetworking.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/UIActivityIndicatorView+AFNetworking.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/UIButton+AFNetworking.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/UIImage+AFNetworking.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/UIImageView+AFNetworking.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/UIKit+AFNetworking.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/UIProgressView+AFNetworking.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/UIRefreshControl+AFNetworking.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/UIWebView+AFNetworking.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/AFAutoPurgingImageCache.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/AFImageDownloader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/AFNetworkActivityIndicatorManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/AFNetworking.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/UIActivityIndicatorView+AFNetworking.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/UIButton+AFNetworking.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/UIImage+AFNetworking.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/UIImageView+AFNetworking.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/UIKit+AFNetworking.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/UIProgressView+AFNetworking.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/UIRefreshControl+AFNetworking.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/UIWebView+AFNetworking.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Manifest.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/Manifest.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/NSObject+RACKVOWrapper.m" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/NSObject+RACKVOWrapper.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/NSObject+RACSelectorSignal.h" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/NSObject+RACSelectorSignal.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/NSObject+RACSelectorSignal.m" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/NSObject+RACSelectorSignal.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/RACBlockTrampoline.m" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/RACBlockTrampoline.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/RACCommand.h" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/RACCommand.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/RACCommand.m" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/RACCommand.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/RACDisposable.m" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/RACDisposable.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/RACReplaySubject.m" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/RACReplaySubject.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/RACSignal+Operations.h" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/RACSignal+Operations.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/RACSignal+Operations.m" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/RACSignal+Operations.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/extobjc/RACEXTRuntimeExtensions.m" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/ReactiveObjC/ReactiveObjC/extobjc/RACEXTRuntimeExtensions.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/AFNetworking/AFNetworking-prefix.pch" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/Target Support Files/AFNetworking/AFNetworking-prefix.pch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/AFNetworking/AFNetworking.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/Target Support Files/AFNetworking/AFNetworking.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-WaQuBase_Example/Pods-WaQuBase_Example-acknowledgements.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-WaQuBase_Example/Pods-WaQuBase_Example-acknowledgements.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-WaQuBase_Example/Pods-WaQuBase_Example-dummy.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-WaQuBase_Example/Pods-WaQuBase_Example-frameworks.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-WaQuBase_Example/Pods-WaQuBase_Example-resources.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-WaQuBase_Example/Pods-WaQuBase_Example.debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-WaQuBase_Example/Pods-WaQuBase_Example.release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-WaQuBase_Tests/Pods-WaQuBase_Tests-acknowledgements.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-WaQuBase_Tests/Pods-WaQuBase_Tests-acknowledgements.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-WaQuBase_Tests/Pods-WaQuBase_Tests-dummy.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-WaQuBase_Tests/Pods-WaQuBase_Tests-frameworks.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-WaQuBase_Tests/Pods-WaQuBase_Tests-resources.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-WaQuBase_Tests/Pods-WaQuBase_Tests.debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-WaQuBase_Tests/Pods-WaQuBase_Tests.release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/UICKeyChainStore/Lib/UICKeyChainStore/UICKeyChainStore.m" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/UICKeyChainStore/Lib/UICKeyChainStore/UICKeyChainStore.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/UICKeyChainStore/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/UICKeyChainStore/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VVBase.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/VVBase.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WaQuBase.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WaQuBase.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVBase.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/../VVBase.podspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVBase/Http/AFNetworking+RACExtensions/AFHTTPSessionManager+RACSupport.m" beforeDir="false" afterPath="$PROJECT_DIR$/../VVBase/Http/AFNetworking+RACExtensions/AFHTTPSessionManager+RACSupport.m" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,64 +115,9 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="iphoneos_9d66ec6c4d21eeb1eec54e40768eee427902f691" />
-  <component name="FileEditorManager">
-    <leaf />
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>{h}</find>
-      <find>WaQuBase/Classes</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>h</replace>
-      <replace>WaQuBase</replace>
-    </replaceStrings>
-  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_C6F36608-01F6-43E9-AB0D-308D867B899F" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/../WaQuBase/Classes/Application/Constant/NetConstans.m" />
-        <option value="$PROJECT_DIR$/../WaQuBase/Classes/Application/Constant/NetConstans.h" />
-        <option value="$PROJECT_DIR$/../WaQuBase/Classes/Utils/UserSession.m" />
-        <option value="$PROJECT_DIR$/../WaQuBase/Classes/AliCloud/DNS/WaQuDNS.m" />
-        <option value="$PROJECT_DIR$/../WaQuBase/Classes/Entity/Entity.h" />
-        <option value="$PROJECT_DIR$/../WaQuBase/Classes/AFNetworking+RACExtensions/AFHTTPSessionManager+RACSupport.h" />
-        <option value="$PROJECT_DIR$/../WaQuBase/Classes/Http/ApiParam.h" />
-        <option value="$PROJECT_DIR$/../WaQuBase/Classes/AFNetworking+RACExtensions/AFHTTPSessionManager+RACSupport.m" />
-        <option value="$PROJECT_DIR$/../WaQuBase/Classes/Protocol/ApiParamInterFace.h" />
-        <option value="$PROJECT_DIR$/../WaQuBase/Classes/Categories/NSURL+Convert2HTTPS.m" />
-        <option value="$PROJECT_DIR$/../WaQuBase/Classes/Application/NetConfig.m" />
-        <option value="$PROJECT_DIR$/../WaQuBase/Classes/Application/NetConfig.h" />
-        <option value="$PROJECT_DIR$/../WaQuBase/Session/UserSession.h" />
-        <option value="$PROJECT_DIR$/../WaQuBase/Session/UserSession.m" />
-        <option value="$PROJECT_DIR$/../WaQuBase/Entity/User.m" />
-        <option value="$PROJECT_DIR$/../WaQuBase/Entity/User.h" />
-        <option value="$PROJECT_DIR$/../WaQuBase/Utils/MMUserDefaults.m" />
-        <option value="$PROJECT_DIR$/../WaQuBase/Utils/MMUserDefaults.h" />
-        <option value="$PROJECT_DIR$/../WaQuBase/Http/MMToken.m" />
-        <option value="$PROJECT_DIR$/../WaQuBase/Http/NSObject+ApiParam.m" />
-        <option value="$PROJECT_DIR$/Podfile" />
-        <option value="$PROJECT_DIR$/../WaQuBase/AliCloud/DNS/WaQuDNS.m" />
-        <option value="$PROJECT_DIR$/../WaQuBase/AliCloud/DNS/WaQuDNS.h" />
-        <option value="$PROJECT_DIR$/../WaQuBase/Application/Constant/NetConstans.h" />
-        <option value="$PROJECT_DIR$/../WaQuBase/Http/ApiParam.h" />
-        <option value="$PROJECT_DIR$/../WaQuBase/Http/ApiParam.m" />
-        <option value="$PROJECT_DIR$/../WaQuBase.podspec" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectFrameBounds" extendedState="6">
@@ -78,80 +126,57 @@
     <option name="width" value="1239" />
     <option name="height" value="777" />
   </component>
+  <component name="ProjectId" id="1coW3dQcBA3JKg1kjR5hi9mmIoR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="" type="efc3779f:XcodeRootNode" />
-              <item name="Pods" type="1d218c8b:XcodeProjectNode" />
-            </path>
-            <path>
-              <item name="" type="efc3779f:XcodeRootNode" />
-              <item name="WaQuBase" type="1d218c8b:XcodeProjectNode" />
-            </path>
-            <path>
-              <item name="" type="efc3779f:XcodeRootNode" />
-              <item name="WaQuBase" type="1d218c8b:XcodeProjectNode" />
-              <item name="Podspec Metadata" type="fcab9f18:XcodeViewNode" />
-            </path>
-            <path>
-              <item name="" type="efc3779f:XcodeRootNode" />
-              <item name="WaQuBase" type="1d218c8b:XcodeProjectNode" />
-              <item name="WaQuBase" type="fcab9f18:XcodeViewNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="Cidr.FilesView" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
-    <property name="js.eslint.eslintPackage" value="" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="OBJC.PRESERVED_TARGET_SELECTION" value="WaQuBase_Example" />
-    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/../WaQuBase/Classes/" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager">
-    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="WaQuBase" TARGET_NAME="WaQuBase_Example" CONFIG_NAME="Debug" IS_LOCATION_SIMULATION_ALLOWED="true" RUN_TARGET_PROJECT_NAME="WaQuBase" RUN_TARGET_NAME="WaQuBase_Example" MAKE_ACTIVE="TRUE">
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="WaQuBase" TARGET_NAME="WaQuBase_Example" CONFIG_NAME="Debug" IS_LOCATION_SIMULATION_ALLOWED="true" APPLICATION_LANGUAGE="IDELaunchSchemeLanguageUseSystemLanguage" APPLICATION_REGION="" RUN_TARGET_PROJECT_NAME="WaQuBase" RUN_TARGET_NAME="WaQuBase_Example" MAKE_ACTIVE="TRUE" SHOULD_DEBUG_EXTENSIONS="false">
       <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
         <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
       </EXTENSION>
+      <embedded_app_extension_list />
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="OCGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="WaQuBase" TARGET_NAME="WaQuBase_Example" CONFIG_NAME="Debug" IS_LOCATION_SIMULATION_ALLOWED="true" TEST_MODE="SUITE_TEST" />
-    <configuration default="true" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" PASS_PARENT_ENVS_2="true" PROJECT_NAME="WaQuBase" TARGET_NAME="WaQuBase_Tests" CONFIG_NAME="Debug" IS_LOCATION_SIMULATION_ALLOWED="true" TEST_MODE="SUITE_TEST" />
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+    <configuration default="true" type="OCGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="WaQuBase" TARGET_NAME="WaQuBase_Example" CONFIG_NAME="Debug" IS_LOCATION_SIMULATION_ALLOWED="true" APPLICATION_LANGUAGE="IDELaunchSchemeLanguageUseSystemLanguage" APPLICATION_REGION="" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="WaQuBase" TARGET_NAME="WaQuBase_Tests" CONFIG_NAME="Debug" IS_LOCATION_SIMULATION_ALLOWED="true" APPLICATION_LANGUAGE="IDELaunchSchemeLanguageUseSystemLanguage" APPLICATION_REGION="" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
       <arguments />
       <envs />
+      <method v="2" />
     </configuration>
   </component>
   <component name="SvnConfiguration">
@@ -175,6 +200,7 @@
       <workItem from="1514520670852" duration="3260000" />
       <workItem from="1533385313952" duration="704000" />
       <workItem from="1533392483621" duration="140000" />
+      <workItem from="1591195231328" duration="1096000" />
     </task>
     <task id="LOCAL-00001" summary="修改配置">
       <created>1487149616479</created>
@@ -256,79 +282,20 @@
     <option name="localTasksCounter" value="12" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21257000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="41" y="23" width="1239" height="777" extended-state="6" />
-    <layout>
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2816092" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5032415" side_tool="true" weight="0.35508347" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32928678" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49675852" weight="0.5053272" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="8" />
-      <window_info anchor="right" id="LuaJ" order="4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32776934" />
-    </layout>
-    <layout-to-restore>
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2816092" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32776934" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="LuaJ" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49675852" weight="0.5053272" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5032415" side_tool="true" weight="0.35508347" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32928678" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Messages" order="8" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="修改配置" />
@@ -342,137 +309,5 @@
     <MESSAGE value="0.1.7" />
     <MESSAGE value="0.4.3" />
     <option name="LAST_COMMIT_MESSAGE" value="0.4.3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="1" />
-    </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Utils/UserSession.h" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Utils/UserSession.m" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Utils/StringUtils.m" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Utils/UUIDUtils.h" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Utils/UUIDUtils.m" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Utils/MMKeyChain.h" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Categories/NSURL+Convert2HTTPS.h" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Categories/NSString+Validator.m" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Dao/User/Guest+Dao.h" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Entity/Entity.m" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/AliCloud/DNS/WaQuDNS.m" />
-    <entry file="file://$PROJECT_DIR$/Pods/WaQuDB/WaQuDB/Classes/Core/BZObjectStoreModelInterface.h" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Entity/Entity.h" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Protocol/ApiParamInterFace.h" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Http/ApiParam.h" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Http/ApiParam.m" />
-    <entry file="file://$PROJECT_DIR$/Pods/Headers/Public/WaQuBase/MMKeyChain.h" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Utils/MMKeyChain.m" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Categories/NSURL+Convert2HTTPS.m" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Application/NetConfig.h" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Application/NetConfig.m" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/AFNetworking+RACExtensions/AFHTTPSessionManager+RACSupport.h" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/AFNetworking+RACExtensions/AFHTTPSessionManager+RACSupport.m" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Http/HTTPApi.m" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Http/HTTPApi.h" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Http/MMToken.m" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Http/ApiManager.m" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Dao/Entity+UserDao.m" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Dao/Entity+UserDao.h" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Entity/Guest.h" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Session/UserSession.h" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Entity/User.m" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Entity/User.h" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Utils/MMUserDefaults.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Dao/User/User+Dao.m" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Entity/Guest.m" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Categories/NSUserDefaults+User.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Http/MMToken.m" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Session/UserSession.m" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Utils/MMUserDefaults.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Http/NSObject+ApiParam.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" column="42" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/AliCloud/DNS/WaQuDNS.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Podfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Protocol/ApiParamInterFace.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURL.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="95" column="53" selection-start-line="95" selection-start-column="47" selection-end-line="95" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/AliCloud/DNS/WaQuDNS.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="48" column="14" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Application/Constant/NetConstans.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Http/ApiParam.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Http/ApiParam.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="100" column="40" selection-start-line="100" selection-start-column="40" selection-end-line="100" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WaQuBase/Categories/NSURL+Convert2HTTPS.h" />
-    <entry file="file://$PROJECT_DIR$/../WaQuBase.podspec">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>

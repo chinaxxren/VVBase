@@ -8,7 +8,7 @@
 
     Pod::Spec.new do |s|
     s.name             = 'VVBase'
-    s.version          = '1.0.0'
+    s.version          = '1.0.2'
     s.summary          = '项目基础网络的架构'
 
     # This description is used to generate tags and improve search results.
@@ -77,8 +77,8 @@
 
     s.dependency 'OpenUDID', '1.0.0'
     s.dependency 'NSLogger', '1.9.7'
-    s.dependency 'ReactiveObjC', '3.1.0'
-    s.dependency 'AFNetworking', '3.2.1'
-    s.dependency 'UICKeyChainStore', '2.1.2'
+    s.dependency 'ReactiveObjC', '3.1.1'
+    s.dependency 'AFNetworking', '4.0.1'
+    s.dependency 'UICKeyChainStore', '2.2.0'
     s.dependency 'Reachability', '3.2'
     end

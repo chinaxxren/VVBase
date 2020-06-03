@@ -1,34 +1,29 @@
 PODS:
-  - AFNetworking (3.2.1):
-    - AFNetworking/NSURLSession (= 3.2.1)
-    - AFNetworking/Reachability (= 3.2.1)
-    - AFNetworking/Security (= 3.2.1)
-    - AFNetworking/Serialization (= 3.2.1)
-    - AFNetworking/UIKit (= 3.2.1)
-  - AFNetworking/NSURLSession (3.2.1):
+  - AFNetworking/NSURLSession (4.0.1):
     - AFNetworking/Reachability
     - AFNetworking/Security
     - AFNetworking/Serialization
-  - AFNetworking/Reachability (3.2.1)
-  - AFNetworking/Security (3.2.1)
-  - AFNetworking/Serialization (3.2.1)
-  - AFNetworking/UIKit (3.2.1):
-    - AFNetworking/NSURLSession
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
   - NSLogger (1.9.7):
     - NSLogger/ObjC (= 1.9.7)
   - NSLogger/ObjC (1.9.7)
   - OpenUDID (1.0.0)
   - Reachability (3.2)
-  - ReactiveObjC (3.1.0)
-  - UICKeyChainStore (2.1.2)
+  - ReactiveObjC (3.1.1)
+  - UICKeyChainStore (2.2.0)
 
 DEPENDENCIES:
-  - AFNetworking (= 3.2.1)
+  - AFNetworking/NSURLSession (~> 4.0.1)
+  - AFNetworking/Reachability (~> 4.0.1)
+  - AFNetworking/Security (~> 4.0.1)
+  - AFNetworking/Serialization (~> 4.0.1)
   - NSLogger (= 1.9.7)
   - OpenUDID (= 1.0.0)
   - Reachability (= 3.2)
-  - ReactiveObjC (= 3.1.0)
-  - UICKeyChainStore (= 2.1.2)
+  - ReactiveObjC (= 3.1.1)
+  - UICKeyChainStore (= 2.2.0)
 
 SPEC REPOS:
   trunk:
@@ -40,13 +35,13 @@ SPEC REPOS:
     - UICKeyChainStore
 
 SPEC CHECKSUMS:
-  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
   NSLogger: cf3013a4fba189f631f07e6c3d5b8ce2b209654b
   OpenUDID: e7cb6984c7304906ad20f3a36bf087b025896b6b
   Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
-  ReactiveObjC: 2a38ea15335de4119d8b17caf1db1484f61db902
-  UICKeyChainStore: 85db518bb1d294366d15ec9b92a416c4e670518f
+  ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
+  UICKeyChainStore: 6a218644594e12f855ec2a10f4fc576c1a69daee
 
-PODFILE CHECKSUM: 9861c3f355ee5ead16d146760588f302e8c5b514
+PODFILE CHECKSUM: 87e25a0e1b0a4e31191b0e2fb2a45ebde5c744c4
 
 COCOAPODS: 1.8.4

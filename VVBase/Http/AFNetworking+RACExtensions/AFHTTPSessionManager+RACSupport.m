@@ -42,13 +42,13 @@ static NSString *TimeoutText = @"network_timeout";
                                                                                    NSDictionary *responseDict = (NSDictionary *) responseObject;
 
                                                                                    if (!httpResponse || !responseObject || ![responseObject isKindOfClass:[NSDictionary class]]) {
-                                                                                       NSString *locaTimeoutText = NSLocalizedString(TimeoutText,nil);
-                                                                                       if([locaTimeoutText isEqualToString:TimeoutText]) {
+                                                                                       NSString *locaTimeoutText = NSLocalizedString(TimeoutText, nil);
+                                                                                       if ([locaTimeoutText isEqualToString:TimeoutText]) {
                                                                                            locaTimeoutText = @"网络请求超时!";
                                                                                        }
                                                                                        NSError *myError = [NSError errorWithDomain:[ERROR_DOMAIM copy]
                                                                                                                               code:1000
-                                                                                                                        userInfo:@{ERROR_MESSAGE:locaTimeoutText}];
+                                                                                                                          userInfo:@{ERROR_MESSAGE: locaTimeoutText}];
                                                                                        [subscriber sendError:myError];
                                                                                    } else if (responseDict[@"success"] && ![responseDict[@"success"] boolValue]) {
                                                                                        NSString *message;
@@ -80,7 +80,10 @@ static NSString *TimeoutText = @"network_timeout";
 
         task.taskCreator = ^NSURLSessionDataTask *(NSURLRequest *req, RACURLSessionRetryDataTaskBlock retryBlock) {
             @strongify(self);
-            return [self dataTaskWithRequest:req completionHandler:retryBlock];
+            return [self dataTaskWithRequest:req
+                              uploadProgress:NULL
+                            downloadProgress:NULL
+                           completionHandler:retryBlock];
         };
 
         [task resume];
@@ -107,19 +110,22 @@ static NSString *TimeoutText = @"network_timeout";
         }
 
         @strongify(self);
-        NSURLSessionDataTask *task = [self dataTaskWithRequest:request completionHandler:^(NSURLResponse *response, id responseObject, NSError *error) {
-            if (error) {
-                NSMutableDictionary *userInfo = [error.userInfo mutableCopy];
-                if (responseObject) {
-                    userInfo[RACAFNResponseObjectErrorKey] = responseObject;
-                }
-                NSError *errorWithRes = [NSError errorWithDomain:error.domain code:error.code userInfo:[userInfo copy]];
-                [subscriber sendError:errorWithRes];
-            } else {
-                [subscriber sendNext:responseObject];
-                [subscriber sendCompleted];
-            }
-        }];
+        NSURLSessionDataTask *task = [self dataTaskWithRequest:request
+                                                uploadProgress:NULL
+                                              downloadProgress:NULL
+                                             completionHandler:^(NSURLResponse *response, id responseObject, NSError *error) {
+                                                 if (error) {
+                                                     NSMutableDictionary *userInfo = [error.userInfo mutableCopy];
+                                                     if (responseObject) {
+                                                         userInfo[RACAFNResponseObjectErrorKey] = responseObject;
+                                                     }
+                                                     NSError *errorWithRes = [NSError errorWithDomain:error.domain code:error.code userInfo:[userInfo copy]];
+                                                     [subscriber sendError:errorWithRes];
+                                                 } else {
+                                                     [subscriber sendNext:responseObject];
+                                                     [subscriber sendCompleted];
+                                                 }
+                                             }];
 
         [task resume];
 
