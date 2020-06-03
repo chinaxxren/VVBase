@@ -8,7 +8,7 @@
 
     Pod::Spec.new do |s|
     s.name             = 'VVBase'
-    s.version          = '1.0.2'
+    s.version          = '1.0.3'
     s.summary          = '项目基础网络的架构'
 
     # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@
     s.source           = { :git => 'https://github.com/chinaxxren/VVBase.git', :tag => s.version.to_s }
     # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-    s.ios.deployment_target = '8.0'
+    s.ios.deployment_target = '10.0'
 
     s.subspec 'AFNetworkLogger' do |ss|
     ss.dependency 'VVBase/Application'
