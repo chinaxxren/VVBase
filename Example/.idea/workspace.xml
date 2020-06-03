@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="123e52d5-00aa-4f13-883d-4a9b4530f183" name="Default" comment="0.4.3" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphoneos_9d66ec6c4d21eeb1eec54e40768eee427902f691" />
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>{h}</find>
+      <find>WaQuBase/Classes</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>h</replace>
+      <replace>WaQuBase</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../WaQuBase/Classes/Application/Constant/NetConstans.m" />
+        <option value="$PROJECT_DIR$/../WaQuBase/Classes/Application/Constant/NetConstans.h" />
+        <option value="$PROJECT_DIR$/../WaQuBase/Classes/Utils/UserSession.m" />
+        <option value="$PROJECT_DIR$/../WaQuBase/Classes/AliCloud/DNS/WaQuDNS.m" />
+        <option value="$PROJECT_DIR$/../WaQuBase/Classes/Entity/Entity.h" />
+        <option value="$PROJECT_DIR$/../WaQuBase/Classes/AFNetworking+RACExtensions/AFHTTPSessionManager+RACSupport.h" />
+        <option value="$PROJECT_DIR$/../WaQuBase/Classes/Http/ApiParam.h" />
+        <option value="$PROJECT_DIR$/../WaQuBase/Classes/AFNetworking+RACExtensions/AFHTTPSessionManager+RACSupport.m" />
+        <option value="$PROJECT_DIR$/../WaQuBase/Classes/Protocol/ApiParamInterFace.h" />
+        <option value="$PROJECT_DIR$/../WaQuBase/Classes/Categories/NSURL+Convert2HTTPS.m" />
+        <option value="$PROJECT_DIR$/../WaQuBase/Classes/Application/NetConfig.m" />
+        <option value="$PROJECT_DIR$/../WaQuBase/Classes/Application/NetConfig.h" />
+        <option value="$PROJECT_DIR$/../WaQuBase/Session/UserSession.h" />
+        <option value="$PROJECT_DIR$/../WaQuBase/Session/UserSession.m" />
+        <option value="$PROJECT_DIR$/../WaQuBase/Entity/User.m" />
+        <option value="$PROJECT_DIR$/../WaQuBase/Entity/User.h" />
+        <option value="$PROJECT_DIR$/../WaQuBase/Utils/MMUserDefaults.m" />
+        <option value="$PROJECT_DIR$/../WaQuBase/Utils/MMUserDefaults.h" />
+        <option value="$PROJECT_DIR$/../WaQuBase/Http/MMToken.m" />
+        <option value="$PROJECT_DIR$/../WaQuBase/Http/NSObject+ApiParam.m" />
+        <option value="$PROJECT_DIR$/Podfile" />
+        <option value="$PROJECT_DIR$/../WaQuBase/AliCloud/DNS/WaQuDNS.m" />
+        <option value="$PROJECT_DIR$/../WaQuBase/AliCloud/DNS/WaQuDNS.h" />
+        <option value="$PROJECT_DIR$/../WaQuBase/Application/Constant/NetConstans.h" />
+        <option value="$PROJECT_DIR$/../WaQuBase/Http/ApiParam.h" />
+        <option value="$PROJECT_DIR$/../WaQuBase/Http/ApiParam.m" />
+        <option value="$PROJECT_DIR$/../WaQuBase.podspec" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="41" />
+    <option name="y" value="23" />
+    <option name="width" value="1239" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="Pods" type="1d218c8b:XcodeProjectNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="WaQuBase" type="1d218c8b:XcodeProjectNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="WaQuBase" type="1d218c8b:XcodeProjectNode" />
+              <item name="Podspec Metadata" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="WaQuBase" type="1d218c8b:XcodeProjectNode" />
+              <item name="WaQuBase" type="fcab9f18:XcodeViewNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Cidr.FilesView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="WaQuBase_Example" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../WaQuBase/Classes/" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="WaQuBase" TARGET_NAME="WaQuBase_Example" CONFIG_NAME="Debug" IS_LOCATION_SIMULATION_ALLOWED="true" RUN_TARGET_PROJECT_NAME="WaQuBase" RUN_TARGET_NAME="WaQuBase_Example" MAKE_ACTIVE="TRUE">
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+    </configuration>
+    <configuration default="true" type="OCGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="WaQuBase" TARGET_NAME="WaQuBase_Example" CONFIG_NAME="Debug" IS_LOCATION_SIMULATION_ALLOWED="true" TEST_MODE="SUITE_TEST" />
+    <configuration default="true" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" PASS_PARENT_ENVS_2="true" PROJECT_NAME="WaQuBase" TARGET_NAME="WaQuBase_Tests" CONFIG_NAME="Debug" IS_LOCATION_SIMULATION_ALLOWED="true" TEST_MODE="SUITE_TEST" />
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="123e52d5-00aa-4f13-883d-4a9b4530f183" name="Default" comment="" />
+      <created>1487148925251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1487148925251</updated>
+      <workItem from="1487148933727" duration="1792000" />
+      <workItem from="1487154021245" duration="194000" />
+      <workItem from="1487156424574" duration="661000" />
+      <workItem from="1487227386051" duration="1561000" />
+      <workItem from="1487229044946" duration="7229000" />
+      <workItem from="1487302347770" duration="1294000" />
+      <workItem from="1487317931194" duration="3724000" />
+      <workItem from="1489046279383" duration="698000" />
+      <workItem from="1514520670852" duration="3260000" />
+      <workItem from="1533385313952" duration="704000" />
+      <workItem from="1533392483621" duration="140000" />
+    </task>
+    <task id="LOCAL-00001" summary="修改配置">
+      <created>1487149616479</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1487149616479</updated>
+    </task>
+    <task id="LOCAL-00002" summary="更新版本">
+      <created>1487149772933</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1487149772933</updated>
+    </task>
+    <task id="LOCAL-00003" summary="修改 pod 结构">
+      <created>1487153219090</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1487153219090</updated>
+    </task>
+    <task id="LOCAL-00004" summary="修改 pod 结构">
+      <created>1487154065179</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1487154065179</updated>
+    </task>
+    <task id="LOCAL-00005" summary="拆分数据库">
+      <created>1487243618870</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1487243618870</updated>
+    </task>
+    <task id="LOCAL-00006" summary="增加位提交文件">
+      <created>1487302620710</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1487302620710</updated>
+    </task>
+    <task id="LOCAL-00007" summary="删除无效文件">
+      <created>1487304178486</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1487304178486</updated>
+    </task>
+    <task id="LOCAL-00008" summary="0.1.7">
+      <created>1487317999470</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1487317999470</updated>
+    </task>
+    <task id="LOCAL-00009" summary="0.1.7">
+      <created>1487319725947</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1487319725947</updated>
+    </task>
+    <task id="LOCAL-00010" summary="0.1.7">
+      <created>1514528671410</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1514528671410</updated>
+    </task>
+    <task id="LOCAL-00011" summary="0.4.3">
+      <created>1533385917501</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1533385917501</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21257000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="41" y="23" width="1239" height="777" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2816092" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5032415" side_tool="true" weight="0.35508347" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32928678" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49675852" weight="0.5053272" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="8" />
+      <window_info anchor="right" id="LuaJ" order="4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32776934" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2816092" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32776934" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="LuaJ" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49675852" weight="0.5053272" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5032415" side_tool="true" weight="0.35508347" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32928678" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="8" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改配置" />
+    <MESSAGE value="更新版本" />
+    <MESSAGE value="修改 pod 结构" />
+    <MESSAGE value="修改所有的依赖结构" />
+    <MESSAGE value="拆分数据库" />
+    <MESSAGE value="增加位提交文件" />
+    <MESSAGE value="删除无效文件" />
+    <MESSAGE value="测试" />
+    <MESSAGE value="0.1.7" />
+    <MESSAGE value="0.4.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.4.3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Utils/UserSession.h" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Utils/UserSession.m" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Utils/StringUtils.m" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Utils/UUIDUtils.h" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Utils/UUIDUtils.m" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Utils/MMKeyChain.h" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Categories/NSURL+Convert2HTTPS.h" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Categories/NSString+Validator.m" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Dao/User/Guest+Dao.h" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Entity/Entity.m" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/AliCloud/DNS/WaQuDNS.m" />
+    <entry file="file://$PROJECT_DIR$/Pods/WaQuDB/WaQuDB/Classes/Core/BZObjectStoreModelInterface.h" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Entity/Entity.h" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Protocol/ApiParamInterFace.h" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Http/ApiParam.h" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Http/ApiParam.m" />
+    <entry file="file://$PROJECT_DIR$/Pods/Headers/Public/WaQuBase/MMKeyChain.h" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Utils/MMKeyChain.m" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Categories/NSURL+Convert2HTTPS.m" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Application/NetConfig.h" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Application/NetConfig.m" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/AFNetworking+RACExtensions/AFHTTPSessionManager+RACSupport.h" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/AFNetworking+RACExtensions/AFHTTPSessionManager+RACSupport.m" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Http/HTTPApi.m" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Http/HTTPApi.h" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Http/MMToken.m" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Http/ApiManager.m" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Dao/Entity+UserDao.m" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Classes/Dao/Entity+UserDao.h" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Entity/Guest.h" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Session/UserSession.h" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Entity/User.m" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Entity/User.h" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Utils/MMUserDefaults.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Dao/User/User+Dao.m" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Entity/Guest.m" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Categories/NSUserDefaults+User.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Http/MMToken.m" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Session/UserSession.m" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Utils/MMUserDefaults.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Http/NSObject+ApiParam.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="42" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/AliCloud/DNS/WaQuDNS.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Podfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Protocol/ApiParamInterFace.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURL.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="95" column="53" selection-start-line="95" selection-start-column="47" selection-end-line="95" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/AliCloud/DNS/WaQuDNS.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="48" column="14" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Application/Constant/NetConstans.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Http/ApiParam.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Http/ApiParam.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="100" column="40" selection-start-line="100" selection-start-column="40" selection-end-line="100" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WaQuBase/Categories/NSURL+Convert2HTTPS.h" />
+    <entry file="file://$PROJECT_DIR$/../WaQuBase.podspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

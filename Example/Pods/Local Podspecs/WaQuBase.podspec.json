@@ -1,0 +1,165 @@
+{
+  "name": "WaQuBase",
+  "version": "0.1.7",
+  "summary": "项目基础数据库和网络的架构",
+  "description": "挖趣项目基础数据库和网络的库",
+  "homepage": "https://gitlab.waqu.com/ios/waqubase.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhaojiangming": "zhaojiangming@gmail.com"
+  },
+  "source": {
+    "git": "https://gitlab.waqu.com/ios/waqubase.git",
+    "tag": "0.1.7"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "frameworks": "UIKit",
+  "dependencies": {
+    "OpenUDID": [
+      "1.0.0"
+    ],
+    "NSLogger": [
+      "1.5.1"
+    ],
+    "ReactiveCocoa": [
+      "2.5"
+    ],
+    "AFNetworking": [
+      "3.1.0"
+    ],
+    "UICKeyChainStore": [
+      "2.1.0"
+    ],
+    "WaQuDB": [
+
+    ]
+  },
+  "subspecs": [
+    {
+      "name": "AFNetworkLogger",
+      "dependencies": {
+        "WaQuBase/Application": [
+
+        ]
+      },
+      "source_files": "WaQuBase/Classes/AFNetworkLogger/*.{h,m}",
+      "public_header_files": "WaQuBase/Classes/AFNetworkLogger/*.h"
+    },
+    {
+      "name": "AliCloud",
+      "source_files": "WaQuBase/Classes/AliCloud/**/*.{h,m}",
+      "public_header_files": "WaQuBase/Classes/AliCloud/**/*.h"
+    },
+    {
+      "name": "Application",
+      "source_files": "WaQuBase/Classes/Application/**/*.{h,m}",
+      "public_header_files": "WaQuBase/Classes/Application/**/*.h"
+    },
+    {
+      "name": "Categories",
+      "dependencies": {
+        "WaQuBase/Application": [
+
+        ]
+      },
+      "source_files": "WaQuBase/Classes/Categories/*.{h,m}",
+      "public_header_files": "WaQuBase/Classes/Categories/*.h"
+    },
+    {
+      "name": "Dao",
+      "dependencies": {
+        "WaQuBase/Entity": [
+
+        ],
+        "WaQuBase/Utils": [
+
+        ],
+        "WaQuBase/Application": [
+
+        ]
+      },
+      "source_files": "WaQuBase/Classes/Dao/**/*.{h,m}",
+      "public_header_files": "WaQuBase/Classes/Dao/**/*.h"
+    },
+    {
+      "name": "Entity",
+      "dependencies": {
+        "WaQuBase/Categories": [
+
+        ],
+        "WaQuBase/Protocol": [
+
+        ],
+        "WaQuBase/Utils": [
+
+        ],
+        "WaQuBase/Application": [
+
+        ]
+      },
+      "source_files": "WaQuBase/Classes/Entity/*.{h,m}",
+      "public_header_files": "WaQuBase/Classes/Entity/*.h"
+    },
+    {
+      "name": "Http",
+      "dependencies": {
+        "WaQuBase/AliCloud": [
+
+        ],
+        "WaQuBase/Protocol": [
+
+        ],
+        "WaQuBase/Entity": [
+
+        ],
+        "WaQuBase/Session": [
+
+        ],
+        "WaQuBase/Utils": [
+
+        ],
+        "WaQuBase/Application": [
+
+        ]
+      },
+      "source_files": "WaQuBase/Classes/Http/**/*.{h,m}",
+      "public_header_files": "WaQuBase/Classes/Http/**/*.h"
+    },
+    {
+      "name": "Protocol",
+      "source_files": "WaQuBase/Classes/Protocol/*.{h,m}",
+      "public_header_files": "WaQuBase/Classes/Protocol/*.h"
+    },
+    {
+      "name": "Utils",
+      "dependencies": {
+        "WaQuBase/Categories": [
+
+        ]
+      },
+      "source_files": "WaQuBase/Classes/Utils/*.{h,m}",
+      "public_header_files": "WaQuBase/Classes/Utils/*.h"
+    },
+    {
+      "name": "Session",
+      "dependencies": {
+        "WaQuBase/Entity": [
+
+        ],
+        "WaQuBase/Application": [
+
+        ],
+        "WaQuBase/Dao": [
+
+        ]
+      },
+      "source_files": "WaQuBase/Classes/Session/*.{h,m}",
+      "public_header_files": "WaQuBase/Classes/Session/*.h"
+    }
+  ]
+}
