@@ -41,7 +41,7 @@ static NSString *TimeoutText = @"network_timeout";
                                                                                    NSHTTPURLResponse *httpResponse = (NSHTTPURLResponse *) response;
                                                                                    NSDictionary *responseDict = (NSDictionary *) responseObject;
 
-                                                                                    if(!responseObject && !error) {
+                                                                                    if(!responseObject && !error && httpResponse.statusCode == 200) {
                                                                                         [subscriber sendNext:responseObject];
                                                                                         [subscriber sendCompleted];
                                                                                     } else if (!httpResponse || !responseObject || ![responseObject isKindOfClass:[NSDictionary class]]) {
