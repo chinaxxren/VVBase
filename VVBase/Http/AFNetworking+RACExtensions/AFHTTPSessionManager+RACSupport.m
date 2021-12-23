@@ -41,7 +41,10 @@ static NSString *TimeoutText = @"network_timeout";
                                                                                    NSHTTPURLResponse *httpResponse = (NSHTTPURLResponse *) response;
                                                                                    NSDictionary *responseDict = (NSDictionary *) responseObject;
 
-                                                                                   if (!httpResponse || !responseObject || ![responseObject isKindOfClass:[NSDictionary class]]) {
+                                                                                    if(!responseObject && !error) {
+                                                                                        [subscriber sendNext:responseObject];
+                                                                                        [subscriber sendCompleted];
+                                                                                    } else if (!httpResponse || !responseObject || ![responseObject isKindOfClass:[NSDictionary class]]) {
                                                                                        NSString *locaTimeoutText = NSLocalizedString(TimeoutText, nil);
                                                                                        if ([locaTimeoutText isEqualToString:TimeoutText]) {
                                                                                            locaTimeoutText = @"网络请求超时!";

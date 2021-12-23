@@ -8,7 +8,7 @@
 
     Pod::Spec.new do |s|
     s.name             = 'VVBase'
-    s.version          = '1.0.5'
+    s.version          = '1.0.6'
     s.summary          = '项目基础网络的架构'
 
     # This description is used to generate tags and improve search results.
