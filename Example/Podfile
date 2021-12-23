@@ -6,7 +6,6 @@ target 'VVBase_Example' do
 
   # base pod
   pod "OpenUDID", "1.0.0"
-  pod "NSLogger", "1.9.7"
   pod "ReactiveObjC", "3.1.1"
 
   #  pod 'AFNetworking', '4.0.1', :subspecs => ['Reachability', 'Serialization', 'Security', 'NSURLSession']

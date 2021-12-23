@@ -7,6 +7,7 @@
 //
 
 #import "MMViewController.h"
+#import "UALogger.h"
 
 @interface MMViewController ()
 
@@ -17,6 +18,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    
+    UALog("aaa");
 }
 
 - (void)didReceiveMemoryWarning
