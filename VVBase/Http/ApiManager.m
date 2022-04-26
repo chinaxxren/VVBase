@@ -21,10 +21,10 @@
 
     if (apiParam.responseSerializer == JSONResponseSerializer) {
         self.responseSerializer = [[HttpCache share] jsonResponseSerializer];
-        self.responseSerializer.acceptableContentTypes = [self.responseSerializer.acceptableContentTypes setByAddingObjectsFromArray:@[@"text/html", @"text/plain"]];
+        self.responseSerializer.acceptableContentTypes = [self.responseSerializer.acceptableContentTypes setByAddingObjectsFromArray:@[@"text/html", @"text/plain",@"application/octet-stream"]];
     } else if (apiParam.responseSerializer == HTTPResponseSerializer) {
         self.responseSerializer = [[HttpCache share] httpResponseSerializer];
-        self.responseSerializer.acceptableContentTypes = [self.responseSerializer.acceptableContentTypes setByAddingObjectsFromArray:@[@"text/html", @"text/plain"]];
+        self.responseSerializer.acceptableContentTypes = [self.responseSerializer.acceptableContentTypes setByAddingObjectsFromArray:@[@"text/html", @"text/plain",@"application/octet-stream"]];
     } else if (apiParam.responseSerializer == CompoundResponseSerializer) {
         self.responseSerializer = [[HttpCache share] compoundResponseSerializer];
     }
